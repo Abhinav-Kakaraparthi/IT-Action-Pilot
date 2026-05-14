@@ -1,0 +1,35 @@
+{
+  "retrieved_at": "2026-05-14T12:56:15.808938+00:00",
+  "sources": [
+    {
+      "title": "NIST Cybersecurity Framework 2.0",
+      "url": "https://www.nist.gov/cyberframework",
+      "path": "data\\docs\\real\\nist_csf_2_0.md"
+    },
+    {
+      "title": "CISA Incident Response Guidance",
+      "url": "https://www.cisa.gov/topics/cybersecurity-best-practices/organizations-and-cyber-safety/cybersecurity-incident-response",
+      "path": "data\\docs\\real\\cisa_incident_response.md"
+    },
+    {
+      "title": "CISA Incident Response Plan Basics",
+      "url": "https://www.cisa.gov/resources-tools/resources/incident-response-plan-irp-basics",
+      "path": "data\\docs\\real\\cisa_irp_basics.md"
+    },
+    {
+      "title": "FTC Data Security Guidance",
+      "url": "https://www.ftc.gov/business-guidance/privacy-security/data-security",
+      "path": "data\\docs\\real\\ftc_data_security.md"
+    },
+    {
+      "title": "GSA MAS Acquisition Guidance",
+      "url": "https://www.gsa.gov/buying-selling/purchasing-programs/gsa-schedules/schedule-buyers/contracting-officer-guidance-schedule-ordering-procedures",
+      "path": "data\\docs\\real\\gsa_mas_acquisition.md"
+    },
+    {
+      "title": "CISA Known Exploited Vulnerabilities Catalog",
+      "url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+      "path": "data\\docs\\real\\cisa_kev_catalog.md"
+    }
+  ]
+}
