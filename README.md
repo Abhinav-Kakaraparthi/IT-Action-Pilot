@@ -1,6 +1,5 @@
 # ActionPilot: Local LangChain Action Agent
 
-ActionPilot is a fully local AI action-agent built for the take-home assessment prompt:
 
 ```text
 IT Support: Resolve technical issues via a manual and "escalate" via a ticket-creation tool.
